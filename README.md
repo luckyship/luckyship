@@ -1,5 +1,8 @@
 <h2> Good good study. Day day up! </h2>
 
+ ![](https://visitor-badge.glitch.me/badge?page_id=luckyship)
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=luckyship&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="luckyship's Github Stats">
 
 <h3> 👨🏻‍💻 About Me </h3>
