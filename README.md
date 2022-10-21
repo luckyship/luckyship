@@ -9,7 +9,7 @@
 
 - 🔭 &nbsp; frontend developer
 - 🌱 &nbsp; contributor of [@ant-design](https://github.com/NG-ZORRO/ng-zorro-antd)
-- 💻 &nbsp; skilled at `angular`、`vue`
+- 💻 &nbsp; sports boy
 <h3>🤔 Contact Me</h3>
 
 &nbsp; <a href="mailto:304093931@qq.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
