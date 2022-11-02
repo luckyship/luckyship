@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; frontend developer
-- 🌱 &nbsp; contributor of [@ant-design](https://github.com/NG-ZORRO/ng-zorro-antd)
+- 🌱 &nbsp; ...
 - 💻 &nbsp; sports boy
 <h3>🤔 Contact Me</h3>
 
